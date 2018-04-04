@@ -1,0 +1,2 @@
+Spring实例包SpringContext.getContext().getBean([实例名])
+获取Spring实例的方法：

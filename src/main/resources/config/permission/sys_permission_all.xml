@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 内置权限操作 -->
+<ROOT>
+	<PERMISSIONS>
+		<roleid name="sys_permission_all">
+			<permissions name="全部Action访问" key="*"></permissions>
+			<permissions name="全部权限" key="***"></permissions>
+			<permissions name="内建账号权限" key="systemkey"></permissions>
+		</roleid>
+		<roleid name="sys_permission_system">
+			<permissions name="全部Action访问" key="*"></permissions>
+			<permissions name="全部权限" key="***"></permissions>
+			<permissions name="内建账号权限" key="systemadmin"></permissions>
+		</roleid>
+		<roleid name="sys_permission_station">
+			<permissions name="全部Action访问" key="*"></permissions>
+			<permissions name="全部权限" key="***"></permissions>
+			<permissions name="内建账号权限" key="systemstation"></permissions>
+		</roleid>
+		
+	</PERMISSIONS>
+</ROOT>

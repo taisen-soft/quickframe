@@ -1,0 +1,25 @@
+权限配置文件操作
+配置文件格式
+<root> 
+  <permissions> 
+    <roleid name="0001"> 
+      <permissions key="tree1" name="树1"></permissions> 
+      <permissions key="tree2" name="树1"></permissions>
+       .
+       .
+       .
+    </roleid> 
+    <roleid name="0002">
+      <permissions key="tree1" name="树1"></permissions> 
+       .
+    </roleid> 
+     .
+     . 
+  </permissions> 
+</root>
+示例文件template.xml
+
+
+Map结构包说明
+roleid->name为map的key属性 如上例中,key="0001"
+roleid->children为map的value属性 如上例中,value=List[{ key : "tree1" name : '树1'} ,{ key : "tree2" , name : '树2'}]

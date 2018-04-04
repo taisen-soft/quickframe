@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 角色权限列表 -->
+<root>
+	<permissions>
+		<per key="tree1" name="树1"></per>
+		<per key="tree1" name="树2"></per>
+	</permissions>
+</root>

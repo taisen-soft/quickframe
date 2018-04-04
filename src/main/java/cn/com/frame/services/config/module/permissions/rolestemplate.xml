@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 角色权限列表 -->
+<root>
+	<roleid name="0001">
+		<permissions key="tree1" name="树1"></permissions>
+		<permissions key="tree2" name="树2"></permissions>
+	</roleid>
+</root>

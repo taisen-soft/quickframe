@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 反射的类名称 -->
+<ROOT>
+	<REFLECT>
+		<!--<ATTR classname="cn.com.frame.model.*"></ATTR>-->
+		<!--<ATTR classname="com.system.persistence.common.oracle.hibernatemapping.*"></ATTR>
+        <ATTR classname="com.system.persistence.view.oracle.*"></ATTR>
+
+	--></REFLECT>
+</ROOT>

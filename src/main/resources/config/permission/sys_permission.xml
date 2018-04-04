@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 内置权限操作 -->
+<ROOT>
+	<PERMISSIONS>
+		<roleid name="sys_permission">
+			<permissions name="全部Action访问" key="*"></permissions>
+			<permissions name="全部权限" key="***"></permissions>
+		</roleid>
+		
+	</PERMISSIONS>
+</ROOT>

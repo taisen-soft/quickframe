@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 日志配置 -->
+<ROOT>
+	<LOG>
+		<INFOR table="SfBQuickcommon" key="_station" name="站点"></INFOR>
+		<INFOR table="SfBQuickcommon" key="_cate" name="栏目"></INFOR>
+		<INFOR table="SfBSmallcommon" key="_document" name="文档"></INFOR>
+		<INFOR table="SfBSmallcommon" key="_extra" name="附加字段"></INFOR>
+		<INFOR table="SfBQuickcommon" key="_model" name="模板"></INFOR>
+		<INFOR table="SfBQuickcommon" key="_model" name="模板"></INFOR>
+		
+	</LOG>
+</ROOT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 全局配置文件 -->
+<ROOT>
+	<CONFIG>
+		<ATTR databasetype="mysql"></ATTR>
+		<ATTR systemname="软件部协同系统"></ATTR>
+		<ATTR systemid="quickframe"></ATTR>
+		<ATTR systemorgcom="山西泰森科技股份有限公司"></ATTR>
+		<ATTR sysadmin_u="administrator"></ATTR>
+		<ATTR sysadmin_p="25f9e794323b453885f5181f1b624d0b"></ATTR>
+	</CONFIG>
+</ROOT>
